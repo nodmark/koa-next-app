@@ -1,0 +1,12 @@
+html,body{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-color: #d8d8d8;
+}
+
+div,p,form{
+  box-sizing: border-box;;
+}
